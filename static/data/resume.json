@@ -1,0 +1,4538 @@
+{
+  "country": [
+    {
+      "value": "CHN",
+      "label": "中国"
+    },
+    {
+      "value": "ALB",
+      "label": "阿尔巴尼亚"
+    },
+    {
+      "value": "DZA",
+      "label": "阿尔及利亚"
+    },
+    {
+      "value": "AFG",
+      "label": "阿富汗"
+    },
+    {
+      "value": "ARG",
+      "label": "阿根廷"
+    },
+    {
+      "value": "ARE",
+      "label": "阿拉伯联合酋长国"
+    },
+    {
+      "value": "ABW",
+      "label": "阿鲁巴"
+    },
+    {
+      "value": "OMN",
+      "label": "阿曼"
+    },
+    {
+      "value": "AZE",
+      "label": "阿塞拜疆"
+    },
+    {
+      "value": "EGY",
+      "label": "埃及"
+    },
+    {
+      "value": "ETH",
+      "label": "埃塞俄比亚"
+    },
+    {
+      "value": "IRL",
+      "label": "爱尔兰"
+    },
+    {
+      "value": "EST",
+      "label": "爱沙尼亚"
+    },
+    {
+      "value": "AND",
+      "label": "安道尔"
+    },
+    {
+      "value": "AGO",
+      "label": "安哥拉"
+    },
+    {
+      "value": "AIA",
+      "label": "安圭拉"
+    },
+    {
+      "value": "ATG",
+      "label": "安提瓜和巴布达"
+    },
+    {
+      "value": "AUT",
+      "label": "奥地利"
+    },
+    {
+      "value": "AUS",
+      "label": "澳大利亚"
+    },
+    {
+      "value": "BRB",
+      "label": "巴巴多斯岛"
+    },
+    {
+      "value": "PNG",
+      "label": "巴布亚新几内亚"
+    },
+    {
+      "value": "BHS",
+      "label": "巴哈马"
+    },
+    {
+      "value": "PAK",
+      "label": "巴基斯坦"
+    },
+    {
+      "value": "PRY",
+      "label": "巴拉圭"
+    },
+    {
+      "value": "PSE",
+      "label": "巴勒斯坦"
+    },
+    {
+      "value": "BHR",
+      "label": "巴林"
+    },
+    {
+      "value": "PAN",
+      "label": "巴拿马"
+    },
+    {
+      "value": "BRA",
+      "label": "巴西"
+    },
+    {
+      "value": "BLR",
+      "label": "白俄罗斯"
+    },
+    {
+      "value": "BMU",
+      "label": "百慕大"
+    },
+    {
+      "value": "BGR",
+      "label": "保加利亚"
+    },
+    {
+      "value": "MNP",
+      "label": "北马里亚纳群岛"
+    },
+    {
+      "value": "BEN",
+      "label": "贝宁"
+    },
+    {
+      "value": "BEL",
+      "label": "比利时"
+    },
+    {
+      "value": "ISL",
+      "label": "冰岛"
+    },
+    {
+      "value": "PRI",
+      "label": "波多黎各"
+    },
+    {
+      "value": "POL",
+      "label": "波兰"
+    },
+    {
+      "value": "BIH",
+      "label": "波斯尼亚和黑塞哥维那"
+    },
+    {
+      "value": "BOL",
+      "label": "玻利维亚"
+    },
+    {
+      "value": "BLZ",
+      "label": "伯利兹"
+    },
+    {
+      "value": "BWA",
+      "label": "博茨瓦纳"
+    },
+    {
+      "value": "BTN",
+      "label": "不丹"
+    },
+    {
+      "value": "BFA",
+      "label": "布基纳法索"
+    },
+    {
+      "value": "BDI",
+      "label": "布隆迪"
+    },
+    {
+      "value": "PRK",
+      "label": "朝鲜"
+    },
+    {
+      "value": "GNQ",
+      "label": "赤道几内亚"
+    },
+    {
+      "value": "DNK",
+      "label": "丹麦 "
+    },
+    {
+      "value": "DEU",
+      "label": "德国"
+    },
+    {
+      "value": "TLS",
+      "label": "东帝汶"
+    },
+    {
+      "value": "TGO",
+      "label": "多哥"
+    },
+    {
+      "value": "DMA",
+      "label": "多米尼加"
+    },
+    {
+      "value": "DOM",
+      "label": "多米尼克"
+    },
+    {
+      "value": "RUS",
+      "label": "俄罗斯"
+    },
+    {
+      "value": "ECU",
+      "label": "厄瓜多尔"
+    },
+    {
+      "value": "ERI",
+      "label": "厄立特里亚"
+    },
+    {
+      "value": "FRA",
+      "label": "法国"
+    },
+    {
+      "value": "FRO",
+      "label": "法罗群岛"
+    },
+    {
+      "value": "PYF",
+      "label": "法属波利尼西亚"
+    },
+    {
+      "value": "GUF",
+      "label": "法属圭亚那"
+    },
+    {
+      "value": "ATF",
+      "label": "法属圣马丁"
+    },
+    {
+      "value": "VAT",
+      "label": "梵蒂冈"
+    },
+    {
+      "value": "PHL",
+      "label": "菲律宾"
+    },
+    {
+      "value": "FJI",
+      "label": "斐济群岛"
+    },
+    {
+      "value": "FIN",
+      "label": "芬兰"
+    },
+    {
+      "value": "CPV",
+      "label": "佛得角"
+    },
+    {
+      "value": "GMB",
+      "label": "冈比亚"
+    },
+    {
+      "value": "COG",
+      "label": "刚果共和国[刚果（布）]"
+    },
+    {
+      "value": "COD",
+      "label": "刚果民主共和国[刚果（金）]"
+    },
+    {
+      "value": "COL",
+      "label": "哥伦比亚"
+    },
+    {
+      "value": "CRI",
+      "label": "哥斯达黎加"
+    },
+    {
+      "value": "GRD",
+      "label": "格林纳达"
+    },
+    {
+      "value": "GRL",
+      "label": "格陵兰"
+    },
+    {
+      "value": "GEO",
+      "label": "格鲁吉亚"
+    },
+    {
+      "value": "CUB",
+      "label": "古巴"
+    },
+    {
+      "value": "GLP",
+      "label": "瓜德罗普"
+    },
+    {
+      "value": "GUM",
+      "label": "关岛"
+    },
+    {
+      "value": "GUY",
+      "label": "圭亚那"
+    },
+    {
+      "value": "KAZ",
+      "label": "哈萨克斯坦"
+    },
+    {
+      "value": "HTI",
+      "label": "海地"
+    },
+    {
+      "value": "KOR",
+      "label": "韩国"
+    },
+    {
+      "value": "NLD",
+      "label": "荷兰"
+    },
+    {
+      "value": "ANT",
+      "label": "荷属圣马丁"
+    },
+    {
+      "value": "HMD",
+      "label": "黑山"
+    },
+    {
+      "value": "HND",
+      "label": "洪都拉斯"
+    },
+    {
+      "value": "KIR",
+      "label": "基里巴斯"
+    },
+    {
+      "value": "DJI",
+      "label": "吉布提"
+    },
+    {
+      "value": "KGZ",
+      "label": "吉尔吉斯斯坦"
+    },
+    {
+      "value": "GIN",
+      "label": "几内亚"
+    },
+    {
+      "value": "GNB",
+      "label": "几内亚比绍"
+    },
+    {
+      "value": "CAN",
+      "label": "加拿大"
+    },
+    {
+      "value": "XA",
+      "label": "加那利群岛"
+    },
+    {
+      "value": "GHA",
+      "label": "加纳"
+    },
+    {
+      "value": "GAB",
+      "label": "加蓬"
+    },
+    {
+      "value": "KHM",
+      "label": "柬埔寨"
+    },
+    {
+      "value": "CZE",
+      "label": "捷克"
+    },
+    {
+      "value": "ZWE",
+      "label": "津巴布韦"
+    },
+    {
+      "value": "CMR",
+      "label": "喀麦隆"
+    },
+    {
+      "value": "QAT",
+      "label": "卡塔尔"
+    },
+    {
+      "value": "CYM",
+      "label": "开曼群岛"
+    },
+    {
+      "value": "COM",
+      "label": "科摩罗"
+    },
+    {
+      "value": "CIV",
+      "label": "科特迪瓦"
+    },
+    {
+      "value": "KWT",
+      "label": "科威特"
+    },
+    {
+      "value": "HRV",
+      "label": "克罗地亚"
+    },
+    {
+      "value": "KEN",
+      "label": "肯尼亚"
+    },
+    {
+      "value": "COK",
+      "label": "库克群岛"
+    },
+    {
+      "value": "CUW",
+      "label": "库拉索"
+    },
+    {
+      "value": "LVA",
+      "label": "拉脱维亚"
+    },
+    {
+      "value": "LSO",
+      "label": "莱索托"
+    },
+    {
+      "value": "LAO",
+      "label": "老挝"
+    },
+    {
+      "value": "LBN",
+      "label": "黎巴嫩"
+    },
+    {
+      "value": "LTU",
+      "label": "立陶宛"
+    },
+    {
+      "value": "LBR",
+      "label": "利比里亚"
+    },
+    {
+      "value": "LBY",
+      "label": "利比亚"
+    },
+    {
+      "value": "LIE",
+      "label": "列支敦士登"
+    },
+    {
+      "value": "REU",
+      "label": "留尼汪岛"
+    },
+    {
+      "value": "LUX",
+      "label": "卢森堡"
+    },
+    {
+      "value": "RWA",
+      "label": "卢旺达"
+    },
+    {
+      "value": "ROU",
+      "label": "罗马尼亚"
+    },
+    {
+      "value": "MDG",
+      "label": "马达加斯加"
+    },
+    {
+      "value": "XI",
+      "label": "马德拉群岛"
+    },
+    {
+      "value": "MDV",
+      "label": "马尔代夫"
+    },
+    {
+      "value": "FLK",
+      "label": "马尔维纳斯群岛"
+    },
+    {
+      "value": "MLT",
+      "label": "马耳他"
+    },
+    {
+      "value": "MWI",
+      "label": "马拉维"
+    },
+    {
+      "value": "MYS",
+      "label": "马来西亚"
+    },
+    {
+      "value": "MLI",
+      "label": "马里"
+    },
+    {
+      "value": "MKD",
+      "label": "马其顿"
+    },
+    {
+      "value": "MHL",
+      "label": "马绍尔群岛"
+    },
+    {
+      "value": "MTQ",
+      "label": "马提尼克"
+    },
+    {
+      "value": "MYT",
+      "label": "马约特"
+    },
+    {
+      "value": "MUS",
+      "label": "毛里求斯"
+    },
+    {
+      "value": "MRT",
+      "label": "毛里塔尼亚"
+    },
+    {
+      "value": "USA",
+      "label": "美国"
+    },
+    {
+      "value": "ASM",
+      "label": "美属萨摩亚"
+    },
+    {
+      "value": "UMI",
+      "label": "美属维尔京群岛"
+    },
+    {
+      "value": "MNG",
+      "label": "蒙古"
+    },
+    {
+      "value": "MSR",
+      "label": "蒙特塞拉特"
+    },
+    {
+      "value": "BGD",
+      "label": "孟加拉国"
+    },
+    {
+      "value": "PER",
+      "label": "秘鲁"
+    },
+    {
+      "value": "FSM",
+      "label": "密克罗尼西亚联邦"
+    },
+    {
+      "value": "MMR",
+      "label": "缅甸"
+    },
+    {
+      "value": "MDA",
+      "label": "摩尔多瓦"
+    },
+    {
+      "value": "MAR",
+      "label": "摩洛哥"
+    },
+    {
+      "value": "MCO",
+      "label": "摩纳哥"
+    },
+    {
+      "value": "MOZ",
+      "label": "莫桑比克"
+    },
+    {
+      "value": "MEX",
+      "label": "墨西哥"
+    },
+    {
+      "value": "NAM",
+      "label": "纳米比亚"
+    },
+    {
+      "value": "ZAF",
+      "label": "南非"
+    },
+    {
+      "value": "SGS",
+      "label": "南苏丹"
+    },
+    {
+      "value": "NRU",
+      "label": "瑙鲁"
+    },
+    {
+      "value": "NPL",
+      "label": "尼泊尔"
+    },
+    {
+      "value": "NIC",
+      "label": "尼加拉瓜"
+    },
+    {
+      "value": "NER",
+      "label": "尼日尔"
+    },
+    {
+      "value": "NGA",
+      "label": "尼日利亚"
+    },
+    {
+      "value": "NIU",
+      "label": "纽埃"
+    },
+    {
+      "value": "NOR",
+      "label": "挪威"
+    },
+    {
+      "value": "NFK",
+      "label": "帕劳"
+    },
+    {
+      "value": "PCN",
+      "label": "皮特凯恩群岛"
+    },
+    {
+      "value": "PRT",
+      "label": "葡萄牙"
+    },
+    {
+      "value": "JPN",
+      "label": "日本"
+    },
+    {
+      "value": "SWE",
+      "label": "瑞典"
+    },
+    {
+      "value": "CHE",
+      "label": "瑞士"
+    },
+    {
+      "value": "SLV",
+      "label": "萨尔瓦多"
+    },
+    {
+      "value": "WSM",
+      "label": "萨摩亚"
+    },
+    {
+      "value": "SRB",
+      "label": "塞尔维亚"
+    },
+    {
+      "value": "SLE",
+      "label": "塞拉利昂"
+    },
+    {
+      "value": "SEN",
+      "label": "塞内加尔"
+    },
+    {
+      "value": "CYP",
+      "label": "塞浦路斯"
+    },
+    {
+      "value": "SYC",
+      "label": "塞舌尔"
+    },
+    {
+      "value": "SAU",
+      "label": "沙特阿拉伯"
+    },
+    {
+      "value": "BLM",
+      "label": "圣巴泰勒米岛"
+    },
+    {
+      "value": "STP",
+      "label": "圣多美和普林西比"
+    },
+    {
+      "value": "SHN",
+      "label": "圣赫勒拿岛"
+    },
+    {
+      "value": "KNA",
+      "label": "圣基茨和尼维斯"
+    },
+    {
+      "value": "LCA",
+      "label": "圣卢西亚"
+    },
+    {
+      "value": "SMR",
+      "label": "圣马力诺"
+    },
+    {
+      "value": "SPM",
+      "label": "圣皮埃尔和密克隆"
+    },
+    {
+      "value": "VCT",
+      "label": "圣文森特和格林纳丁斯"
+    },
+    {
+      "value": "LKA",
+      "label": "斯里兰卡"
+    },
+    {
+      "value": "SVK",
+      "label": "斯洛伐克"
+    },
+    {
+      "value": "SVN",
+      "label": "斯洛文尼亚"
+    },
+    {
+      "value": "SWZ",
+      "label": "斯威士兰"
+    },
+    {
+      "value": "SDN",
+      "label": "苏丹"
+    },
+    {
+      "value": "SUR",
+      "label": "苏里南"
+    },
+    {
+      "value": "SLB",
+      "label": "所罗门群岛"
+    },
+    {
+      "value": "SOM",
+      "label": "索马里"
+    },
+    {
+      "value": "TJK",
+      "label": "塔吉克斯坦"
+    },
+    {
+      "value": "THA",
+      "label": "泰国"
+    },
+    {
+      "value": "TZA",
+      "label": "坦桑尼亚"
+    },
+    {
+      "value": "TON",
+      "label": "汤加"
+    },
+    {
+      "value": "TCA",
+      "label": "特克斯和凯科斯群岛"
+    },
+    {
+      "value": "TTO",
+      "label": "特立尼达和多巴哥"
+    },
+    {
+      "value": "TUN",
+      "label": "突尼斯"
+    },
+    {
+      "value": "TUV",
+      "label": "图瓦卢"
+    },
+    {
+      "value": "TUR",
+      "label": "土耳其"
+    },
+    {
+      "value": "TKM",
+      "label": "土库曼斯坦"
+    },
+    {
+      "value": "TKL",
+      "label": "托克劳"
+    },
+    {
+      "value": "WLF",
+      "label": "瓦利斯和富图纳"
+    },
+    {
+      "value": "VUT",
+      "label": "瓦努阿图"
+    },
+    {
+      "value": "GTM",
+      "label": "危地马拉"
+    },
+    {
+      "value": "VEN",
+      "label": "委内瑞拉"
+    },
+    {
+      "value": "BRN",
+      "label": "文莱"
+    },
+    {
+      "value": "UGA",
+      "label": "乌干达"
+    },
+    {
+      "value": "UKR",
+      "label": "乌克兰"
+    },
+    {
+      "value": "URY",
+      "label": "乌拉圭"
+    },
+    {
+      "value": "UZB",
+      "label": "乌兹别克斯坦"
+    },
+    {
+      "value": "ESP",
+      "label": "西班牙"
+    },
+    {
+      "value": "ESH",
+      "label": "西撒哈拉"
+    },
+    {
+      "value": "GRC",
+      "label": "希腊"
+    },
+    {
+      "value": "SGP",
+      "label": "新加坡"
+    },
+    {
+      "value": "NCL",
+      "label": "新喀里多尼亚"
+    },
+    {
+      "value": "NZL",
+      "label": "新西兰"
+    },
+    {
+      "value": "HUN",
+      "label": "匈牙利"
+    },
+    {
+      "value": "SYR",
+      "label": "叙利亚"
+    },
+    {
+      "value": "JAM",
+      "label": "牙买加"
+    },
+    {
+      "value": "ARM",
+      "label": "亚美尼亚"
+    },
+    {
+      "value": "XH",
+      "label": "亚速尔群岛"
+    },
+    {
+      "value": "YEM",
+      "label": "也门"
+    },
+    {
+      "value": "IRQ",
+      "label": "伊拉克"
+    },
+    {
+      "value": "IRN",
+      "label": "伊朗"
+    },
+    {
+      "value": "ISR",
+      "label": "以色列"
+    },
+    {
+      "value": "ITA",
+      "label": "意大利"
+    },
+    {
+      "value": "IND",
+      "label": "印度"
+    },
+    {
+      "value": "IDN",
+      "label": "印度尼西亚"
+    },
+    {
+      "value": "GBR",
+      "label": "英国"
+    },
+    {
+      "value": "VGB",
+      "label": "英属维尔京群岛"
+    },
+    {
+      "value": "JOR",
+      "label": "约旦"
+    },
+    {
+      "value": "VNM",
+      "label": "越南"
+    },
+    {
+      "value": "ZMB",
+      "label": "赞比亚"
+    },
+    {
+      "value": "TCD",
+      "label": "乍得"
+    },
+    {
+      "value": "GIB",
+      "label": "直布罗陀"
+    },
+    {
+      "value": "CHL",
+      "label": "智利"
+    },
+    {
+      "value": "CAF",
+      "label": "中非共和国"
+    }
+  ],
+  "nation": [
+    {
+      "value": 1,
+      "label": "汉族"
+    },
+    {
+      "value": 2,
+      "label": "蒙古族"
+    },
+    {
+      "value": 3,
+      "label": "回族"
+    },
+    {
+      "value": 4,
+      "label": "藏族"
+    },
+    {
+      "value": 5,
+      "label": "维吾尔族"
+    },
+    {
+      "value": 6,
+      "label": "苗族"
+    },
+    {
+      "value": 7,
+      "label": "彝族"
+    },
+    {
+      "value": 8,
+      "label": "壮族"
+    },
+    {
+      "value": 9,
+      "label": "布依族"
+    },
+    {
+      "value": 10,
+      "label": "朝鲜族"
+    },
+    {
+      "value": 11,
+      "label": "满族"
+    },
+    {
+      "value": 12,
+      "label": "侗族"
+    },
+    {
+      "value": 13,
+      "label": "瑶族"
+    },
+    {
+      "value": 14,
+      "label": "白族"
+    },
+    {
+      "value": 15,
+      "label": "土家族"
+    },
+    {
+      "value": 16,
+      "label": "哈尼族"
+    },
+    {
+      "value": 17,
+      "label": "哈萨克族"
+    },
+    {
+      "value": 18,
+      "label": "傣族"
+    },
+    {
+      "value": 19,
+      "label": "黎族"
+    },
+    {
+      "value": 20,
+      "label": "傈僳族"
+    },
+    {
+      "value": 21,
+      "label": "佤族"
+    },
+    {
+      "value": 22,
+      "label": "畲族"
+    },
+    {
+      "value": 23,
+      "label": "高山族"
+    },
+    {
+      "value": 24,
+      "label": "拉祜族"
+    },
+    {
+      "value": 25,
+      "label": "水族"
+    },
+    {
+      "value": 26,
+      "label": "东乡族"
+    },
+    {
+      "value": 27,
+      "label": "纳西族"
+    },
+    {
+      "value": 28,
+      "label": "景颇族"
+    },
+    {
+      "value": 29,
+      "label": "柯尔克孜族"
+    },
+    {
+      "value": 30,
+      "label": "土族"
+    },
+    {
+      "value": 31,
+      "label": "达斡尔族"
+    },
+    {
+      "value": 32,
+      "label": "仫佬族"
+    },
+    {
+      "value": 33,
+      "label": "羌族"
+    },
+    {
+      "value": 34,
+      "label": "布朗族"
+    },
+    {
+      "value": 35,
+      "label": "撒拉族"
+    },
+    {
+      "value": 36,
+      "label": "毛南族"
+    },
+    {
+      "value": 37,
+      "label": "仡佬族"
+    },
+    {
+      "value": 38,
+      "label": "锡伯族"
+    },
+    {
+      "value": 39,
+      "label": "阿昌族"
+    },
+    {
+      "value": 40,
+      "label": "普米族"
+    },
+    {
+      "value": 41,
+      "label": "塔吉克族"
+    },
+    {
+      "value": 42,
+      "label": "怒族"
+    },
+    {
+      "value": 43,
+      "label": "乌孜别克族"
+    },
+    {
+      "value": 44,
+      "label": "俄罗斯族"
+    },
+    {
+      "value": 45,
+      "label": "鄂温克族"
+    },
+    {
+      "value": 46,
+      "label": "德昂族"
+    },
+    {
+      "value": 47,
+      "label": "保安族"
+    },
+    {
+      "value": 48,
+      "label": "裕固族"
+    },
+    {
+      "value": 49,
+      "label": "京族"
+    },
+    {
+      "value": 50,
+      "label": "塔塔尔族"
+    },
+    {
+      "value": 51,
+      "label": "独龙族"
+    },
+    {
+      "value": 52,
+      "label": "鄂伦春族"
+    },
+    {
+      "value": 53,
+      "label": "赫哲族"
+    },
+    {
+      "value": 54,
+      "label": "门巴族"
+    },
+    {
+      "value": 55,
+      "label": "珞巴族"
+    },
+    {
+      "value": 56,
+      "label": "基诺族"
+    }
+  ],
+  "province": [
+    {
+      "value": 110000,
+      "label": "北京"
+    },
+    {
+      "value": 120000,
+      "label": "天津"
+    },
+    {
+      "value": 130000,
+      "label": "河北省"
+    },
+    {
+      "value": 140000,
+      "label": "山西省"
+    },
+    {
+      "value": 150000,
+      "label": "内蒙古自治区"
+    },
+    {
+      "value": 210000,
+      "label": "辽宁省"
+    },
+    {
+      "value": 220000,
+      "label": "吉林省"
+    },
+    {
+      "value": 230000,
+      "label": "黑龙江省"
+    },
+    {
+      "value": 310000,
+      "label": "上海"
+    },
+    {
+      "value": 320000,
+      "label": "江苏省"
+    },
+    {
+      "value": 330000,
+      "label": "浙江省"
+    },
+    {
+      "value": 340000,
+      "label": "安徽省"
+    },
+    {
+      "value": 350000,
+      "label": "福建省"
+    },
+    {
+      "value": 360000,
+      "label": "江西省"
+    },
+    {
+      "value": 370000,
+      "label": "山东省"
+    },
+    {
+      "value": 410000,
+      "label": "河南省"
+    },
+    {
+      "value": 420000,
+      "label": "湖北省"
+    },
+    {
+      "value": 430000,
+      "label": "湖南省"
+    },
+    {
+      "value": 440000,
+      "label": "广东省"
+    },
+    {
+      "value": 450000,
+      "label": "广西壮族自治区"
+    },
+    {
+      "value": 460000,
+      "label": "海南省"
+    },
+    {
+      "value": 500000,
+      "label": "重庆"
+    },
+    {
+      "value": 510000,
+      "label": "四川省"
+    },
+    {
+      "value": 520000,
+      "label": "贵州省"
+    },
+    {
+      "value": 530000,
+      "label": "云南省"
+    },
+    {
+      "value": 540000,
+      "label": "西藏自治区"
+    },
+    {
+      "value": 610000,
+      "label": "陕西省"
+    },
+    {
+      "value": 620000,
+      "label": "甘肃省"
+    },
+    {
+      "value": 630000,
+      "label": "青海省"
+    },
+    {
+      "value": 640000,
+      "label": "宁夏回族自治区"
+    },
+    {
+      "value": 650000,
+      "label": "新疆维吾尔自治区"
+    },
+    {
+      "value": 710000,
+      "label": "台湾省"
+    },
+    {
+      "value": 810000,
+      "label": "香港特别行政区"
+    },
+    {
+      "value": 820000,
+      "label": "澳门特别行政区"
+    }
+  ],
+  "yes_or_no": [
+    {
+      "value": 1,
+      "label": "是"
+    },
+    {
+      "value": 0,
+      "label": "否"
+    }
+  ],
+  "has_or_not": [
+    {
+      "value": 1,
+      "label": "有"
+    },
+    {
+      "value": 0,
+      "label": "无"
+    }
+  ],
+  "skill_level": [
+    {
+      "value": 1,
+      "label": "一般"
+    },
+    {
+      "value": 2,
+      "label": "熟练"
+    },
+    {
+      "value": 3,
+      "label": "精通"
+    }
+  ],
+  "gender": [
+    {
+      "value": 1,
+      "label": "男"
+    },
+    {
+      "value": 2,
+      "label": "女"
+    }
+  ],
+  "requester_class": [
+    {
+      "value": 1,
+      "label": "在职人员"
+    },
+    {
+      "value": 2,
+      "label": "应届毕业生"
+    },
+    {
+      "value": 3,
+      "label": "其他"
+    }
+  ],
+  "blood_type": [
+    {
+      "value": 1,
+      "label": "A型"
+    },
+    {
+      "value": 2,
+      "label": "B型"
+    },
+    {
+      "value": 3,
+      "label": "O型"
+    },
+    {
+      "value": 4,
+      "label": "AB型"
+    },
+    {
+      "value": 5,
+      "label": "其他"
+    }
+  ],
+  "health_status": [
+    {
+      "value": 1,
+      "label": "健康"
+    },
+    {
+      "value": 2,
+      "label": "一般或较弱"
+    },
+    {
+      "value": 3,
+      "label": "有慢性病"
+    },
+    {
+      "value": 4,
+      "label": "有生理缺陷"
+    },
+    {
+      "value": 5,
+      "label": "残疾（有残疾证）"
+    }
+  ],
+  "sight": [
+    {
+      "value": 1,
+      "label": "小于450"
+    },
+    {
+      "value": 2,
+      "label": "大于等于450"
+    }
+  ],
+  "id_type": [
+    {
+      "value": 1,
+      "label": "身份证"
+    },
+    {
+      "value": 2,
+      "label": "护照"
+    },
+    {
+      "value": 3,
+      "label": "军官证"
+    },
+    {
+      "value": 4,
+      "label": "香港身份证"
+    },
+    {
+      "value": 5,
+      "label": "澳门身份证"
+    },
+    {
+      "value": 6,
+      "label": "台胞证"
+    },
+    {
+      "value": 7,
+      "label": "其他"
+    }
+  ],
+  "marriage_bearing_status": [
+    {
+      "value": 1,
+      "label": "未婚"
+    },
+    {
+      "value": 2,
+      "label": "已婚未育"
+    },
+    {
+      "value": 3,
+      "label": "已婚已育"
+    },
+    {
+      "value": 4,
+      "label": "离异"
+    },
+    {
+      "value": 5,
+      "label": "丧偶"
+    },
+    {
+      "value": 6,
+      "label": "其他"
+    }
+  ],
+  "political_status": [
+    {
+      "value": 1,
+      "label": "中共党员"
+    },
+    {
+      "value": 2,
+      "label": "中共预备党员"
+    },
+    {
+      "value": 3,
+      "label": "共青团员"
+    },
+    {
+      "value": 4,
+      "label": "民革会员"
+    },
+    {
+      "value": 5,
+      "label": "民盟盟员"
+    },
+    {
+      "value": 6,
+      "label": "民建会员"
+    },
+    {
+      "value": 7,
+      "label": "民进会员"
+    },
+    {
+      "value": 8,
+      "label": "农工党党员"
+    },
+    {
+      "value": 9,
+      "label": "致公党党员"
+    },
+    {
+      "value": 10,
+      "label": "九三学社社员"
+    },
+    {
+      "value": 11,
+      "label": "台盟盟员"
+    },
+    {
+      "value": 12,
+      "label": "无党派民主人士"
+    },
+    {
+      "value": 13,
+      "label": "群众"
+    },
+    {
+      "value": 14,
+      "label": "其他"
+    }
+  ],
+  "household_type": [
+    {
+      "value": 1,
+      "label": "城镇户口"
+    },
+    {
+      "value": 2,
+      "label": "非城镇户口"
+    }
+  ],
+  "house_native_type": [
+    {
+      "value": 1,
+      "label": "居民户"
+    },
+    {
+      "value": 2,
+      "label": "工作单位集体户"
+    },
+    {
+      "value": 3,
+      "label": "学校集体户"
+    },
+    {
+      "value": 4,
+      "label": "留学服务机构集体户"
+    },
+    {
+      "value": 5,
+      "label": "其他"
+    }
+  ],
+  "first_education": [
+    {
+      "value": 1,
+      "label": "博士后"
+    },
+    {
+      "value": 2,
+      "label": "博士研究生"
+    },
+    {
+      "value": 3,
+      "label": "硕士研究生"
+    },
+    {
+      "value": 4,
+      "label": "双学士"
+    },
+    {
+      "value": 5,
+      "label": "本科"
+    },
+    {
+      "value": 6,
+      "label": "大专"
+    },
+    {
+      "value": 7,
+      "label": "中专"
+    },
+    {
+      "value": 8,
+      "label": "高中"
+    },
+    {
+      "value": 9,
+      "label": "无"
+    }
+  ],
+  "enroll_batch": [
+    {
+      "value": 1,
+      "label": "本一批"
+    },
+    {
+      "value": 2,
+      "label": "本二批"
+    },
+    {
+      "value": 3,
+      "label": "本三批"
+    },
+    {
+      "value": 4,
+      "label": "其它"
+    }
+  ],
+  "highest_education": [
+    {
+      "value": 1,
+      "label": "博士后及以上"
+    },
+    {
+      "value": 2,
+      "label": "博士研究生"
+    },
+    {
+      "value": 3,
+      "label": "硕士研究生"
+    },
+    {
+      "value": 4,
+      "label": "MBA"
+    },
+    {
+      "value": 5,
+      "label": "本科"
+    },
+    {
+      "value": 6,
+      "label": "双学位"
+    },
+    {
+      "value": 7,
+      "label": "专升本"
+    },
+    {
+      "value": 8,
+      "label": "大专"
+    },
+    {
+      "value": 9,
+      "label": "其他"
+    }
+  ],
+  "highest_degree": [
+    {
+      "value": 1,
+      "label": "学士"
+    },
+    {
+      "value": 2,
+      "label": "硕士"
+    },
+    {
+      "value": 3,
+      "label": "博士"
+    },
+    {
+      "value": 4,
+      "label": "无"
+    }
+  ],
+  "expect_monthly_salary": [
+    {
+      "value": 1,
+      "label": "1000以下"
+    },
+    {
+      "value": 2,
+      "label": "1000-2000"
+    },
+    {
+      "value": 3,
+      "label": "2000-3000"
+    },
+    {
+      "value": 4,
+      "label": "3000-4000"
+    },
+    {
+      "value": 5,
+      "label": "4000-5000"
+    },
+    {
+      "value": 6,
+      "label": "5000-6000"
+    },
+    {
+      "value": 7,
+      "label": "6000-7000"
+    },
+    {
+      "value": 8,
+      "label": "7000-8000"
+    },
+    {
+      "value": 9,
+      "label": "8000-9000"
+    },
+    {
+      "value": 10,
+      "label": "9000-10000"
+    },
+    {
+      "value": 11,
+      "label": "10000-20000"
+    },
+    {
+      "value": 12,
+      "label": "20000以上"
+    }
+  ],
+  "edu_stage": [
+    {
+      "value": 1,
+      "label": "博士研究生"
+    },
+    {
+      "value": 2,
+      "label": "硕士研究生"
+    },
+    {
+      "value": 3,
+      "label": "本科"
+    },
+    {
+      "value": 4,
+      "label": "双学位"
+    },
+    {
+      "value": 5,
+      "label": "专升本"
+    },
+    {
+      "value": 6,
+      "label": "大专"
+    },
+    {
+      "value": 7,
+      "label": "高中"
+    },
+    {
+      "value": 8,
+      "label": "中专"
+    }
+  ],
+  "school_nature": [
+    {
+      "value": 1,
+      "label": "211或985院校"
+    },
+    {
+      "value": 2,
+      "label": "其他院校"
+    },
+    {
+      "value": 3,
+      "label": "海外院校"
+    }
+  ],
+  "education": [
+    {
+      "value": 1,
+      "label": "博士后及以上"
+    },
+    {
+      "value": 2,
+      "label": "博士研究生"
+    },
+    {
+      "value": 3,
+      "label": "硕士研究生"
+    },
+    {
+      "value": 4,
+      "label": "MBA"
+    },
+    {
+      "value": 5,
+      "label": "双学位"
+    },
+    {
+      "value": 6,
+      "label": "本科"
+    },
+    {
+      "value": 7,
+      "label": "专升本"
+    },
+    {
+      "value": 8,
+      "label": "大专"
+    },
+    {
+      "value": 10,
+      "label": "高中"
+    },
+    {
+      "value": 9,
+      "label": "其他"
+    },
+    {
+      "value": 11,
+      "label": "无"
+    }
+  ],
+  "degree": [
+    {
+      "value": 1,
+      "label": "学士"
+    },
+    {
+      "value": 2,
+      "label": "双学士"
+    },
+    {
+      "value": 3,
+      "label": "硕士"
+    },
+    {
+      "value": 4,
+      "label": "双硕士"
+    },
+    {
+      "value": 5,
+      "label": "博士"
+    },
+    {
+      "value": 6,
+      "label": "双博士"
+    },
+    {
+      "value": 7,
+      "label": "无"
+    }
+  ],
+  "major_class": [
+    {
+      "value": 1,
+      "label": "安全科学与工程类"
+    },
+    {
+      "value": 2,
+      "label": "兵器类"
+    },
+    {
+      "value": 3,
+      "label": "材料类"
+    },
+    {
+      "value": 4,
+      "label": "财政学类"
+    },
+    {
+      "value": 5,
+      "label": "草学类"
+    },
+    {
+      "value": 6,
+      "label": "测绘类"
+    },
+    {
+      "value": 7,
+      "label": "大气科学类"
+    },
+    {
+      "value": 8,
+      "label": "地理科学类"
+    },
+    {
+      "value": 9,
+      "label": "地球物理学类"
+    },
+    {
+      "value": 10,
+      "label": "地质类"
+    },
+    {
+      "value": 11,
+      "label": "地质学类"
+    },
+    {
+      "value": 12,
+      "label": "电气类"
+    },
+    {
+      "value": 13,
+      "label": "电子商务类"
+    },
+    {
+      "value": 14,
+      "label": "电子信息类"
+    },
+    {
+      "value": 15,
+      "label": "动物生产类"
+    },
+    {
+      "value": 16,
+      "label": "动物医学类"
+    },
+    {
+      "value": 17,
+      "label": "法学类"
+    },
+    {
+      "value": 18,
+      "label": "法医学类"
+    },
+    {
+      "value": 19,
+      "label": "纺织类"
+    },
+    {
+      "value": 20,
+      "label": "工商管理类"
+    },
+    {
+      "value": 21,
+      "label": "工业工程类"
+    },
+    {
+      "value": 22,
+      "label": "公安技术类"
+    },
+    {
+      "value": 23,
+      "label": "公安学类"
+    },
+    {
+      "value": 24,
+      "label": "公共管理类"
+    },
+    {
+      "value": 25,
+      "label": "公共卫生与预防医学类"
+    },
+    {
+      "value": 26,
+      "label": "管理科学与工程类"
+    },
+    {
+      "value": 27,
+      "label": "海洋工程类"
+    },
+    {
+      "value": 28,
+      "label": "海洋科学类"
+    },
+    {
+      "value": 29,
+      "label": "航空航天类"
+    },
+    {
+      "value": 30,
+      "label": "核工程类"
+    },
+    {
+      "value": 31,
+      "label": "护理学类"
+    },
+    {
+      "value": 32,
+      "label": "化工与制药类"
+    },
+    {
+      "value": 33,
+      "label": "化学类"
+    },
+    {
+      "value": 34,
+      "label": "环境科学与工程类"
+    },
+    {
+      "value": 35,
+      "label": "机械类"
+    },
+    {
+      "value": 36,
+      "label": "基础医学类"
+    },
+    {
+      "value": 37,
+      "label": "计算机类"
+    },
+    {
+      "value": 38,
+      "label": "建筑类"
+    },
+    {
+      "value": 39,
+      "label": "交通运输类"
+    },
+    {
+      "value": 40,
+      "label": "教育学类"
+    },
+    {
+      "value": 41,
+      "label": "金融学类"
+    },
+    {
+      "value": 42,
+      "label": "经济学类"
+    },
+    {
+      "value": 43,
+      "label": "经济与贸易类"
+    },
+    {
+      "value": 44,
+      "label": "口腔医学类"
+    },
+    {
+      "value": 45,
+      "label": "矿业类"
+    },
+    {
+      "value": 46,
+      "label": "力学类"
+    },
+    {
+      "value": 47,
+      "label": "历史学类"
+    },
+    {
+      "value": 48,
+      "label": "林学类"
+    },
+    {
+      "value": 49,
+      "label": "林业工程类"
+    },
+    {
+      "value": 50,
+      "label": "临床医学类"
+    },
+    {
+      "value": 51,
+      "label": "旅游管理类"
+    },
+    {
+      "value": 52,
+      "label": "马克思主义理论类"
+    },
+    {
+      "value": 53,
+      "label": "美术学类"
+    },
+    {
+      "value": 54,
+      "label": "民族学类"
+    },
+    {
+      "value": 55,
+      "label": "能源动力类"
+    },
+    {
+      "value": 56,
+      "label": "农业工程类"
+    },
+    {
+      "value": 57,
+      "label": "农业经济管理类"
+    },
+    {
+      "value": 58,
+      "label": "轻工类"
+    },
+    {
+      "value": 59,
+      "label": "设计学类"
+    },
+    {
+      "value": 60,
+      "label": "社会学类"
+    },
+    {
+      "value": 61,
+      "label": "生物工程类"
+    },
+    {
+      "value": 62,
+      "label": "生物科学类"
+    },
+    {
+      "value": 63,
+      "label": "生物医学工程类"
+    },
+    {
+      "value": 64,
+      "label": "食品科学与工程类"
+    },
+    {
+      "value": 65,
+      "label": "数学类"
+    },
+    {
+      "value": 66,
+      "label": "水产类"
+    },
+    {
+      "value": 67,
+      "label": "水利类"
+    },
+    {
+      "value": 68,
+      "label": "体育学类"
+    },
+    {
+      "value": 69,
+      "label": "天文学类"
+    },
+    {
+      "value": 70,
+      "label": "统计学类"
+    },
+    {
+      "value": 71,
+      "label": "图书情报与档案管理类"
+    },
+    {
+      "value": 72,
+      "label": "土木类"
+    },
+    {
+      "value": 73,
+      "label": "外国语言文学类"
+    },
+    {
+      "value": 74,
+      "label": "物理学类"
+    },
+    {
+      "value": 75,
+      "label": "物流管理与工程类"
+    },
+    {
+      "value": 76,
+      "label": "戏剧与影视学类"
+    },
+    {
+      "value": 77,
+      "label": "心理学类"
+    },
+    {
+      "value": 78,
+      "label": "新闻传播学类"
+    },
+    {
+      "value": 79,
+      "label": "药学类"
+    },
+    {
+      "value": 80,
+      "label": "医学技术类"
+    },
+    {
+      "value": 81,
+      "label": "仪器类"
+    },
+    {
+      "value": 82,
+      "label": "艺术学理论类"
+    },
+    {
+      "value": 83,
+      "label": "音乐与舞蹈学类"
+    },
+    {
+      "value": 84,
+      "label": "哲学类"
+    },
+    {
+      "value": 85,
+      "label": "政治学类"
+    },
+    {
+      "value": 86,
+      "label": "植物生产类"
+    },
+    {
+      "value": 87,
+      "label": "中国语言文学类"
+    },
+    {
+      "value": 88,
+      "label": "中西医结合类"
+    },
+    {
+      "value": 89,
+      "label": "中药学类"
+    },
+    {
+      "value": 90,
+      "label": "中医学类"
+    },
+    {
+      "value": 91,
+      "label": "自动化类"
+    },
+    {
+      "value": 92,
+      "label": "自然保护与环境生态类"
+    },
+    {
+      "value": 93,
+      "label": "其他类"
+    },
+    {
+      "value": 94,
+      "label": "无"
+    }
+  ],
+  "study_type": [
+    {
+      "value": 1,
+      "label": "普通全日制"
+    },
+    {
+      "value": 2,
+      "label": "在职"
+    },
+    {
+      "value": 3,
+      "label": "海外留学"
+    },
+    {
+      "value": 4,
+      "label": "成人教育"
+    },
+    {
+      "value": 5,
+      "label": "自学考试"
+    },
+    {
+      "value": 6,
+      "label": "网络教育"
+    },
+    {
+      "value": 7,
+      "label": "电大"
+    },
+    {
+      "value": 8,
+      "label": "函授"
+    },
+    {
+      "value": 9,
+      "label": "党校"
+    },
+    {
+      "value": 10,
+      "label": "其他"
+    }
+  ],
+  "class_rank": [
+    {
+      "value": 1,
+      "label": "5%"
+    },
+    {
+      "value": 2,
+      "label": "10%"
+    },
+    {
+      "value": 3,
+      "label": "20%"
+    },
+    {
+      "value": 4,
+      "label": "30%"
+    },
+    {
+      "value": 5,
+      "label": "50%"
+    },
+    {
+      "value": 6,
+      "label": "其他"
+    }
+  ],
+  "culture_mode": [
+    {
+      "value": 1,
+      "label": "统分"
+    },
+    {
+      "value": 2,
+      "label": "自筹"
+    },
+    {
+      "value": 3,
+      "label": "定向"
+    },
+    {
+      "value": 4,
+      "label": "委培"
+    },
+    {
+      "value": 5,
+      "label": "其他"
+    }
+  ],
+  "major_study_language": [
+    {
+      "value": 1,
+      "label": "英语"
+    },
+    {
+      "value": 2,
+      "label": "俄语"
+    },
+    {
+      "value": 3,
+      "label": "法语"
+    },
+    {
+      "value": 4,
+      "label": "日语"
+    },
+    {
+      "value": 5,
+      "label": "德语"
+    },
+    {
+      "value": 6,
+      "label": "葡萄牙语"
+    },
+    {
+      "value": 7,
+      "label": "西班牙语"
+    },
+    {
+      "value": 8,
+      "label": "其他"
+    }
+  ],
+  "foreign_language_order": [
+    {
+      "value": 1,
+      "label": "第一外语"
+    },
+    {
+      "value": 2,
+      "label": "第二外语"
+    },
+    {
+      "value": 3,
+      "label": "其他"
+    }
+  ],
+  "small_language": [
+    {
+      "value": 1,
+      "label": "阿拉伯语"
+    },
+    {
+      "value": 2,
+      "label": "法语"
+    },
+    {
+      "value": 3,
+      "label": "德语"
+    },
+    {
+      "value": 4,
+      "label": "意大利语"
+    },
+    {
+      "value": 5,
+      "label": "俄语"
+    },
+    {
+      "value": 6,
+      "label": "捷克语"
+    },
+    {
+      "value": 7,
+      "label": "波兰语"
+    },
+    {
+      "value": 8,
+      "label": "罗马尼亚语"
+    },
+    {
+      "value": 9,
+      "label": "荷兰语"
+    },
+    {
+      "value": 10,
+      "label": "韩语"
+    },
+    {
+      "value": 11,
+      "label": "葡萄牙语"
+    },
+    {
+      "value": 12,
+      "label": "日语"
+    },
+    {
+      "value": 13,
+      "label": "瑞典语"
+    },
+    {
+      "value": 14,
+      "label": "斯瓦西里语"
+    },
+    {
+      "value": 15,
+      "label": "泰语"
+    },
+    {
+      "value": 16,
+      "label": "土耳其语"
+    },
+    {
+      "value": 17,
+      "label": "西班牙语"
+    }
+  ],
+  "english_level": [
+    {
+      "value": 1,
+      "label": "CET-4（大学英语四级）"
+    },
+    {
+      "value": 2,
+      "label": "CET-6（大学英语六级）"
+    },
+    {
+      "value": 3,
+      "label": "TEM-4（专业英语四级）"
+    },
+    {
+      "value": 4,
+      "label": "TEM-8（专业英语八级）"
+    },
+    {
+      "value": 5,
+      "label": "IELTS（雅思）"
+    },
+    {
+      "value": 6,
+      "label": "BEC（剑桥商务英语资格考试）"
+    },
+    {
+      "value": 7,
+      "label": "TOEFL（托福）"
+    },
+    {
+      "value": 8,
+      "label": "TOEIC（托业）"
+    },
+    {
+      "value": 9,
+      "label": "GRE（美国研究生入学考试）"
+    },
+    {
+      "value": 10,
+      "label": "GMAT（美国经企管理专业研究生入学考试）"
+    },
+    {
+      "value": 11,
+      "label": "EPT（出国进修人员英语水平考试）"
+    },
+    {
+      "value": 12,
+      "label": "BFT（出国备选人员考试）"
+    },
+    {
+      "value": 13,
+      "label": "WSK（外语水平考试）"
+    },
+    {
+      "value": 14,
+      "label": "FECT（金融专业英语证书考试）"
+    },
+    {
+      "value": 15,
+      "label": "其他"
+    }
+  ],
+  "colloquialism": [
+    {
+      "value": 1,
+      "label": "专业"
+    },
+    {
+      "value": 2,
+      "label": "母语"
+    },
+    {
+      "value": 3,
+      "label": "流利"
+    },
+    {
+      "value": 4,
+      "label": "可面试"
+    },
+    {
+      "value": 5,
+      "label": "简单会话"
+    }
+  ],
+  "other_foreign_language": [
+    {
+      "value": 1,
+      "label": "阿拉伯语"
+    },
+    {
+      "value": 2,
+      "label": "丹麦语"
+    },
+    {
+      "value": 3,
+      "label": "德语"
+    },
+    {
+      "value": 4,
+      "label": "希腊语"
+    },
+    {
+      "value": 5,
+      "label": "英语"
+    },
+    {
+      "value": 6,
+      "label": "世界语"
+    },
+    {
+      "value": 7,
+      "label": "西班牙语"
+    },
+    {
+      "value": 8,
+      "label": "芬兰语"
+    },
+    {
+      "value": 9,
+      "label": "法语"
+    },
+    {
+      "value": 10,
+      "label": "印尼语"
+    },
+    {
+      "value": 11,
+      "label": "日语"
+    },
+    {
+      "value": 12,
+      "label": "蒙古语"
+    },
+    {
+      "value": 13,
+      "label": "缅甸语"
+    },
+    {
+      "value": 14,
+      "label": "荷兰语"
+    },
+    {
+      "value": 15,
+      "label": "挪威语"
+    },
+    {
+      "value": 16,
+      "label": "波兰语"
+    },
+    {
+      "value": 17,
+      "label": "葡萄牙语"
+    },
+    {
+      "value": 18,
+      "label": "罗马尼亚语"
+    },
+    {
+      "value": 19,
+      "label": "俄语"
+    },
+    {
+      "value": 20,
+      "label": "斯洛伐克语"
+    },
+    {
+      "value": 21,
+      "label": "瑞典语"
+    },
+    {
+      "value": 22,
+      "label": "傣语"
+    },
+    {
+      "value": 23,
+      "label": "土耳其语"
+    },
+    {
+      "value": 24,
+      "label": "维吾尔语"
+    },
+    {
+      "value": 25,
+      "label": "乌克兰语"
+    },
+    {
+      "value": 26,
+      "label": "越南语"
+    },
+    {
+      "value": 27,
+      "label": "韩语"
+    },
+    {
+      "value": 28,
+      "label": "其他"
+    }
+  ],
+  "it_certificate": [
+    {
+      "value": 1,
+      "label": "资格证书"
+    },
+    {
+      "value": 2,
+      "label": "全国计算机等级考试四级"
+    },
+    {
+      "value": 3,
+      "label": "全国计算机等级考试三级"
+    },
+    {
+      "value": 4,
+      "label": "全国计算机等级考试二级"
+    },
+    {
+      "value": 5,
+      "label": "全国计算机等级考试一级"
+    },
+    {
+      "value": 6,
+      "label": "上海市计算机三级"
+    },
+    {
+      "value": 7,
+      "label": "上海市计算机二级"
+    },
+    {
+      "value": 8,
+      "label": "上海市计算机一级"
+    },
+    {
+      "value": 9,
+      "label": "全国计算机专业人才高级证书"
+    },
+    {
+      "value": 10,
+      "label": "全国计算机专业人才中级证书"
+    },
+    {
+      "value": 11,
+      "label": "REDHAT系列认证"
+    },
+    {
+      "value": 12,
+      "label": "NOVELL系列认证"
+    },
+    {
+      "value": 13,
+      "label": "JAVA系列认证"
+    },
+    {
+      "value": 14,
+      "label": "华为系列认证"
+    },
+    {
+      "value": 15,
+      "label": "Linux系列认证"
+    },
+    {
+      "value": 16,
+      "label": "Oracle系列认证"
+    },
+    {
+      "value": 17,
+      "label": "思科系列认证(CISCO)"
+    },
+    {
+      "value": 18,
+      "label": "IBM系列认证"
+    },
+    {
+      "value": 19,
+      "label": "微软系列认证"
+    },
+    {
+      "value": 20,
+      "label": "其他"
+    }
+  ],
+  "it_use_time": [
+    {
+      "value": 1,
+      "label": "3个月"
+    },
+    {
+      "value": 2,
+      "label": "6个月"
+    },
+    {
+      "value": 3,
+      "label": "1年"
+    },
+    {
+      "value": 4,
+      "label": "2年"
+    },
+    {
+      "value": 5,
+      "label": "3-5年"
+    },
+    {
+      "value": 6,
+      "label": "5年以上"
+    }
+  ],
+  "major_title": [
+    {
+      "value": 1,
+      "label": "无"
+    },
+    {
+      "value": 2,
+      "label": "教授"
+    },
+    {
+      "value": 3,
+      "label": "副教授"
+    },
+    {
+      "value": 4,
+      "label": "讲师"
+    },
+    {
+      "value": 5,
+      "label": "助教"
+    },
+    {
+      "value": 6,
+      "label": "高讲师"
+    },
+    {
+      "value": 7,
+      "label": "研究员"
+    },
+    {
+      "value": 8,
+      "label": "副研究员"
+    },
+    {
+      "value": 9,
+      "label": "助理研究员"
+    },
+    {
+      "value": 10,
+      "label": "研究实习员"
+    },
+    {
+      "value": 11,
+      "label": "研究技术员"
+    },
+    {
+      "value": 12,
+      "label": "工程技术应用研究员"
+    },
+    {
+      "value": 13,
+      "label": "高工师"
+    },
+    {
+      "value": 14,
+      "label": "工程师"
+    },
+    {
+      "value": 15,
+      "label": "助工师"
+    },
+    {
+      "value": 16,
+      "label": "工程技术员"
+    },
+    {
+      "value": 17,
+      "label": "高级经济师"
+    },
+    {
+      "value": 18,
+      "label": "经济师"
+    },
+    {
+      "value": 19,
+      "label": "助理经济师"
+    },
+    {
+      "value": 20,
+      "label": "经济员"
+    },
+    {
+      "value": 21,
+      "label": "高会师"
+    },
+    {
+      "value": 22,
+      "label": "会计师"
+    },
+    {
+      "value": 23,
+      "label": "助会师"
+    },
+    {
+      "value": 24,
+      "label": "会计员"
+    },
+    {
+      "value": 25,
+      "label": "高统师"
+    },
+    {
+      "value": 26,
+      "label": "统计师"
+    },
+    {
+      "value": 27,
+      "label": "助统师"
+    },
+    {
+      "value": 28,
+      "label": "统计员"
+    },
+    {
+      "value": 29,
+      "label": "编审"
+    },
+    {
+      "value": 30,
+      "label": "副编审"
+    },
+    {
+      "value": 31,
+      "label": "编辑"
+    },
+    {
+      "value": 32,
+      "label": "助理编辑"
+    },
+    {
+      "value": 33,
+      "label": "译审"
+    },
+    {
+      "value": 34,
+      "label": "副译审"
+    },
+    {
+      "value": 35,
+      "label": "翻译"
+    },
+    {
+      "value": 36,
+      "label": "助理翻译"
+    },
+    {
+      "value": 37,
+      "label": "高级记者"
+    },
+    {
+      "value": 38,
+      "label": "主任记者"
+    },
+    {
+      "value": 39,
+      "label": "记者"
+    },
+    {
+      "value": 40,
+      "label": "助理记者"
+    },
+    {
+      "value": 41,
+      "label": "新闻高级编辑"
+    },
+    {
+      "value": 42,
+      "label": "新闻主任编辑"
+    },
+    {
+      "value": 43,
+      "label": "新闻编辑"
+    },
+    {
+      "value": 44,
+      "label": "新闻助理编辑"
+    },
+    {
+      "value": 45,
+      "label": "研究馆员"
+    },
+    {
+      "value": 46,
+      "label": "副研究馆员"
+    },
+    {
+      "value": 47,
+      "label": "馆员"
+    },
+    {
+      "value": 48,
+      "label": "助理馆员"
+    },
+    {
+      "value": 49,
+      "label": "管理员"
+    },
+    {
+      "value": 50,
+      "label": "主任医师"
+    },
+    {
+      "value": 51,
+      "label": "副主任医师"
+    },
+    {
+      "value": 52,
+      "label": "主治医师"
+    },
+    {
+      "value": 53,
+      "label": "医师"
+    },
+    {
+      "value": 54,
+      "label": "医士"
+    },
+    {
+      "value": 55,
+      "label": "一级律师"
+    },
+    {
+      "value": 56,
+      "label": "二级律师"
+    },
+    {
+      "value": 57,
+      "label": "三级律师"
+    },
+    {
+      "value": 58,
+      "label": "四级律师"
+    },
+    {
+      "value": 59,
+      "label": "律师助理"
+    },
+    {
+      "value": 60,
+      "label": "高政师"
+    },
+    {
+      "value": 61,
+      "label": "政工师"
+    },
+    {
+      "value": 62,
+      "label": "助政师"
+    },
+    {
+      "value": 63,
+      "label": "政工员"
+    },
+    {
+      "value": 64,
+      "label": "审计正高"
+    },
+    {
+      "value": 65,
+      "label": "高审师"
+    },
+    {
+      "value": 66,
+      "label": "审计师"
+    },
+    {
+      "value": 67,
+      "label": "助审师"
+    },
+    {
+      "value": 68,
+      "label": "审计员"
+    },
+    {
+      "value": 69,
+      "label": "相当正高"
+    },
+    {
+      "value": 70,
+      "label": "相当副高"
+    },
+    {
+      "value": 71,
+      "label": "相当中级"
+    },
+    {
+      "value": 72,
+      "label": "相当初级"
+    },
+    {
+      "value": 73,
+      "label": "相当低级"
+    }
+  ],
+  "major_certificates_name": [
+    {
+      "value": 1,
+      "label": "银行从业资格"
+    },
+    {
+      "value": 2,
+      "label": "证券从业资格"
+    },
+    {
+      "value": 3,
+      "label": "保险经纪从业资格"
+    },
+    {
+      "value": 4,
+      "label": "期货从业资格"
+    },
+    {
+      "value": 5,
+      "label": "基金从业资格"
+    },
+    {
+      "value": 6,
+      "label": "统计从业资格"
+    },
+    {
+      "value": 7,
+      "label": "司法从业资格"
+    },
+    {
+      "value": 8,
+      "label": "国际金融理财师（CFP）"
+    },
+    {
+      "value": 9,
+      "label": "金融理财师（AFP）"
+    },
+    {
+      "value": 10,
+      "label": "特许金融分析师CFA（三级）"
+    },
+    {
+      "value": 11,
+      "label": "特许金融分析师CFA（二级）"
+    },
+    {
+      "value": 12,
+      "label": "特许金融分析师CFA（一级）"
+    },
+    {
+      "value": 13,
+      "label": "注册国际投资分析师（CIIA）"
+    },
+    {
+      "value": 14,
+      "label": "国际财资管理师（CTP）"
+    },
+    {
+      "value": 15,
+      "label": "金融风险管理师（FRM）"
+    },
+    {
+      "value": 16,
+      "label": "注册会计师（CPA）"
+    },
+    {
+      "value": 43,
+      "label": "会计从业资格"
+    },
+    {
+      "value": 44,
+      "label": "初级会计师"
+    },
+    {
+      "value": 45,
+      "label": "中级会计师"
+    },
+    {
+      "value": 46,
+      "label": "高级会计师"
+    },
+    {
+      "value": 17,
+      "label": "特许公认会计师（ACCA）"
+    },
+    {
+      "value": 18,
+      "label": "加拿大注册会计师（CGA）"
+    },
+    {
+      "value": 19,
+      "label": "美国注册会计师（AICPA）"
+    },
+    {
+      "value": 20,
+      "label": "注册资产评估师（CPV）"
+    },
+    {
+      "value": 21,
+      "label": "国际注册内部审计师（CIA）"
+    },
+    {
+      "value": 22,
+      "label": "国际注册信息系统审计师（CISA）"
+    },
+    {
+      "value": 23,
+      "label": "跟单信用证专家资格（CDCS）"
+    },
+    {
+      "value": 24,
+      "label": "注册税务师"
+    },
+    {
+      "value": 25,
+      "label": "ISO内审员资格证"
+    },
+    {
+      "value": 26,
+      "label": "注册咨询工程师（投资）"
+    },
+    {
+      "value": 27,
+      "label": "高级理财规划师（国家职业资格一级）"
+    },
+    {
+      "value": 28,
+      "label": "理财规划师（国家职业资格二级）"
+    },
+    {
+      "value": 29,
+      "label": "助理理财规划师（国家职业资格三级）"
+    },
+    {
+      "value": 30,
+      "label": "高级项目管理师（国家职业资格一级）"
+    },
+    {
+      "value": 31,
+      "label": "项目管理师（国家职业资格二级）"
+    },
+    {
+      "value": 32,
+      "label": "助理项目管理师（国家职业资格三级）"
+    },
+    {
+      "value": 33,
+      "label": "项目管理员（国家职业资格四级）"
+    },
+    {
+      "value": 34,
+      "label": "高级电子商务师（国家职业资格一级）"
+    },
+    {
+      "value": 35,
+      "label": "电子商务师（国家职业资格二级）"
+    },
+    {
+      "value": 36,
+      "label": "助理电子商务师（国家职业资格三级）"
+    },
+    {
+      "value": 37,
+      "label": "电子商务员（国家职业资格四级）"
+    },
+    {
+      "value": 38,
+      "label": "高级人力资源管理师（国家职业资格一级）"
+    },
+    {
+      "value": 39,
+      "label": "人力资源管理师（国家职业资格二级）"
+    },
+    {
+      "value": 40,
+      "label": "助理人力资源管理师（国家职业资格三级）"
+    },
+    {
+      "value": 41,
+      "label": "人力资源管理员（国家职业资格四级）"
+    },
+    {
+      "value": 42,
+      "label": "其他资格"
+    }
+  ],
+  "reward_type": [
+    {
+      "value": 1,
+      "label": "奖学金"
+    },
+    {
+      "value": 2,
+      "label": "其他奖励"
+    }
+  ],
+  "reward_level": [
+    {
+      "value": 1,
+      "label": "国家级"
+    },
+    {
+      "value": 2,
+      "label": "省部级"
+    },
+    {
+      "value": 3,
+      "label": "市级"
+    },
+    {
+      "value": 4,
+      "label": "校级"
+    },
+    {
+      "value": 5,
+      "label": "院系级"
+    },
+    {
+      "value": 6,
+      "label": "其他"
+    }
+  ],
+  "reward_ascription": [
+    {
+      "value": 1,
+      "label": "个人"
+    },
+    {
+      "value": 2,
+      "label": "集体"
+    }
+  ],
+  "journal_level": [
+    {
+      "value": 1,
+      "label": "SCI"
+    },
+    {
+      "value": 2,
+      "label": "EI"
+    },
+    {
+      "value": 3,
+      "label": "国际期刊"
+    },
+    {
+      "value": 4,
+      "label": "国内核心期刊"
+    },
+    {
+      "value": 5,
+      "label": "国内一般期刊"
+    },
+    {
+      "value": 6,
+      "label": "SSCI"
+    },
+    {
+      "value": 7,
+      "label": "CSSCI"
+    }
+  ],
+  "student_duty_level": [
+    {
+      "value": 1,
+      "label": "校级"
+    },
+    {
+      "value": 2,
+      "label": "院系级"
+    },
+    {
+      "value": 3,
+      "label": "班级"
+    },
+    {
+      "value": 4,
+      "label": "其他"
+    }
+  ],
+  "student_duty_class": [
+    {
+      "value": 1,
+      "label": "班干部"
+    },
+    {
+      "value": 2,
+      "label": "学生会干部"
+    },
+    {
+      "value": 3,
+      "label": "党团干部"
+    },
+    {
+      "value": 4,
+      "label": "其他"
+    }
+  ],
+  "industry": [
+    {
+      "value": 1,
+      "label": "农林牧渔业"
+    },
+    {
+      "value": 2,
+      "label": "采掘业"
+    },
+    {
+      "value": 3,
+      "label": "制造业"
+    },
+    {
+      "value": 4,
+      "label": "电力煤气水的生产和供应业"
+    },
+    {
+      "value": 5,
+      "label": "建筑业"
+    },
+    {
+      "value": 6,
+      "label": "地质勘查业、水利管理业"
+    },
+    {
+      "value": 7,
+      "label": "交通运输仓储及邮电通信业"
+    },
+    {
+      "value": 8,
+      "label": "批发和零售贸易、餐饮业"
+    },
+    {
+      "value": 9,
+      "label": "金融业、保险业"
+    },
+    {
+      "value": 10,
+      "label": "房地产业"
+    },
+    {
+      "value": 11,
+      "label": "社会服务业"
+    },
+    {
+      "value": 12,
+      "label": "卫生、体育和社会福利业"
+    },
+    {
+      "value": 13,
+      "label": "教育文化艺术广播电影电视"
+    },
+    {
+      "value": 14,
+      "label": "科学研究和综合技术服务业"
+    },
+    {
+      "value": 15,
+      "label": "国家机关政党机关社会团体"
+    },
+    {
+      "value": 16,
+      "label": "其他行业"
+    }
+  ],
+  "company_property": [
+    {
+      "value": 1,
+      "label": "政府机关\/事业单位"
+    },
+    {
+      "value": 2,
+      "label": "国有企业"
+    },
+    {
+      "value": 3,
+      "label": "外资企业"
+    },
+    {
+      "value": 4,
+      "label": "民营企业"
+    },
+    {
+      "value": 5,
+      "label": "社会团体"
+    },
+    {
+      "value": 6,
+      "label": "自由职业"
+    }
+  ],
+  "work_type": [
+    {
+      "value": 1,
+      "label": "全职（公务员或事业单位正式员工）"
+    },
+    {
+      "value": 2,
+      "label": "全职（劳动合同制员工）"
+    },
+    {
+      "value": 3,
+      "label": "全职（劳动派遣制员工）"
+    },
+    {
+      "value": 4,
+      "label": "实习（未毕业在校生兼职或实习）"
+    },
+    {
+      "value": 5,
+      "label": "其他"
+    }
+  ],
+  "work_duty_class": [
+    {
+      "value": 1,
+      "label": "产品开发"
+    },
+    {
+      "value": 2,
+      "label": "市场策划"
+    },
+    {
+      "value": 3,
+      "label": "销售拓展"
+    },
+    {
+      "value": 4,
+      "label": "国际业务"
+    },
+    {
+      "value": 5,
+      "label": "会计业务"
+    },
+    {
+      "value": 6,
+      "label": "风险管理"
+    },
+    {
+      "value": 7,
+      "label": "客服操作"
+    },
+    {
+      "value": 8,
+      "label": "经营管理"
+    },
+    {
+      "value": 9,
+      "label": "人力资源"
+    },
+    {
+      "value": 10,
+      "label": "财务管理"
+    },
+    {
+      "value": 11,
+      "label": "法律事务"
+    },
+    {
+      "value": 12,
+      "label": "信息技术"
+    },
+    {
+      "value": 13,
+      "label": "审计监督"
+    },
+    {
+      "value": 14,
+      "label": "战略发展"
+    },
+    {
+      "value": 15,
+      "label": "综合管理"
+    },
+    {
+      "value": 16,
+      "label": "对外关系"
+    },
+    {
+      "value": 17,
+      "label": "党群工作"
+    },
+    {
+      "value": 18,
+      "label": "其他"
+    }
+  ],
+  "work_duty_level": [
+    {
+      "value": 1,
+      "label": "应届生"
+    },
+    {
+      "value": 2,
+      "label": "初级职位（两年以下工作经验）"
+    },
+    {
+      "value": 3,
+      "label": "中级职位（两年以上工作经验）"
+    },
+    {
+      "value": 4,
+      "label": "高级决策层（CEO,EVP,GM等）"
+    },
+    {
+      "value": 5,
+      "label": "高级职位（管理类）"
+    },
+    {
+      "value": 6,
+      "label": "高级职位（非管理类）"
+    }
+  ],
+  "performance_level": [
+    {
+      "value": 1,
+      "label": "优秀：前5%-10%"
+    },
+    {
+      "value": 2,
+      "label": "良好：前10%-30%"
+    },
+    {
+      "value": 3,
+      "label": "一般：30%-50%"
+    },
+    {
+      "value": 4,
+      "label": "较差：50%-90%"
+    },
+    {
+      "value": 5,
+      "label": "淘汰：后10%"
+    }
+  ],
+  "family_relation": [
+    {
+      "value": 1,
+      "label": "配偶"
+    },
+    {
+      "value": 2,
+      "label": "子"
+    },
+    {
+      "value": 3,
+      "label": "女"
+    },
+    {
+      "value": 4,
+      "label": "父亲"
+    },
+    {
+      "value": 5,
+      "label": "母亲"
+    },
+    {
+      "value": 6,
+      "label": "兄"
+    },
+    {
+      "value": 7,
+      "label": "弟"
+    },
+    {
+      "value": 8,
+      "label": "姐"
+    },
+    {
+      "value": 9,
+      "label": "妹"
+    },
+    {
+      "value": 10,
+      "label": "（外）祖父"
+    },
+    {
+      "value": 11,
+      "label": "（外）祖母"
+    },
+    {
+      "value": 12,
+      "label": "其他"
+    }
+  ],
+  "fixed_addr_type": [
+    {
+      "value": 1,
+      "label": "本人家庭固定居住地址"
+    },
+    {
+      "value": 2,
+      "label": "学校集体住址"
+    },
+    {
+      "value": 3,
+      "label": "本人自行租住地址"
+    },
+    {
+      "value": 4,
+      "label": "无固定地址"
+    }
+  ],
+  "master_type": [
+    {
+      "value": 1,
+      "label": "学术硕士"
+    },
+    {
+      "value": 2,
+      "label": "专业硕士"
+    },
+    {
+      "value": 3,
+      "label": "本人为大学本科毕业生"
+    }
+  ],
+  "start_work_time": [
+    {
+      "value": 1,
+      "label": "一周以内"
+    },
+    {
+      "value": 2,
+      "label": "一个月内"
+    },
+    {
+      "value": 3,
+      "label": "1～3个月"
+    },
+    {
+      "value": 4,
+      "label": "3个月后"
+    },
+    {
+      "value": 5,
+      "label": "面谈"
+    }
+  ],
+  "recruit_source": [
+    {
+      "value": 1,
+      "label": "本行网站"
+    },
+    {
+      "value": 2,
+      "label": "51job（前程无忧）"
+    },
+    {
+      "value": 3,
+      "label": "智联招聘"
+    },
+    {
+      "value": 4,
+      "label": "中华英才网"
+    },
+    {
+      "value": 5,
+      "label": "应届生求职网"
+    },
+    {
+      "value": 6,
+      "label": "大街网"
+    },
+    {
+      "value": 7,
+      "label": "学校就业网"
+    },
+    {
+      "value": 8,
+      "label": "学校BBS"
+    },
+    {
+      "value": 9,
+      "label": "他人推荐告知"
+    },
+    {
+      "value": 10,
+      "label": "猎聘网"
+    },
+    {
+      "value": 11,
+      "label": "现场宣讲会"
+    },
+    {
+      "value": 12,
+      "label": "人人网"
+    },
+    {
+      "value": 13,
+      "label": "微博"
+    },
+    {
+      "value": 14,
+      "label": "微信"
+    },
+    {
+      "value": 15,
+      "label": "报纸"
+    },
+    {
+      "value": 16,
+      "label": "其他"
+    }
+  ],
+  "it_ability": [
+    {
+      "value": "big_data",
+      "label": "大数据类",
+      "child": [
+        {
+          "value": 1,
+          "label": "数据分析"
+        },
+        {
+          "value": 2,
+          "label": "数据挖掘"
+        },
+        {
+          "value": 3,
+          "label": "数据建模"
+        },
+        {
+          "value": 4,
+          "label": "ER win"
+        },
+        {
+          "value": 5,
+          "label": "SAS"
+        },
+        {
+          "value": 6,
+          "label": "Hive"
+        },
+        {
+          "value": 7,
+          "label": "Hadoop"
+        },
+        {
+          "value": 8,
+          "label": "R语言"
+        },
+        {
+          "value": 9,
+          "label": "Access"
+        },
+        {
+          "value": 10,
+          "label": "DB2"
+        },
+        {
+          "value": 11,
+          "label": "Oracle"
+        },
+        {
+          "value": 12,
+          "label": "SQL"
+        },
+        {
+          "value": 13,
+          "label": "SQL Server"
+        },
+        {
+          "value": 14,
+          "label": "Sybase"
+        },
+        {
+          "value": 15,
+          "label": "MySQL"
+        },
+        {
+          "value": 16,
+          "label": "SPSS"
+        },
+        {
+          "value": 17,
+          "label": "OLAP"
+        }
+      ]
+    },
+    {
+      "value": "programming",
+      "label": "开发编程类",
+      "child": [
+        {
+          "value": 1,
+          "label": ".NET"
+        },
+        {
+          "value": 2,
+          "label": "ActiveX"
+        },
+        {
+          "value": 3,
+          "label": "ASP.NET"
+        },
+        {
+          "value": 4,
+          "label": "C#.NET"
+        },
+        {
+          "value": 5,
+          "label": "C\/C++"
+        },
+        {
+          "value": 6,
+          "label": "ERP"
+        },
+        {
+          "value": 7,
+          "label": "HTML5"
+        },
+        {
+          "value": 8,
+          "label": "IOS"
+        },
+        {
+          "value": 9,
+          "label": "Java"
+        },
+        {
+          "value": 10,
+          "label": "JavaScript"
+        },
+        {
+          "value": 11,
+          "label": "PERL"
+        },
+        {
+          "value": 12,
+          "label": "PHP"
+        },
+        {
+          "value": 13,
+          "label": "Python"
+        },
+        {
+          "value": 14,
+          "label": "SEO"
+        },
+        {
+          "value": 15,
+          "label": "UI"
+        },
+        {
+          "value": 16,
+          "label": "WEB前端"
+        },
+        {
+          "value": 17,
+          "label": "Android"
+        },
+        {
+          "value": 18,
+          "label": "Lua"
+        },
+        {
+          "value": 19,
+          "label": "Clojure"
+        },
+        {
+          "value": 20,
+          "label": "Ruby"
+        },
+        {
+          "value": 21,
+          "label": "Matlab"
+        },
+        {
+          "value": 22,
+          "label": "XML\/XSLT"
+        },
+        {
+          "value": 23,
+          "label": "Linux"
+        },
+        {
+          "value": 24,
+          "label": "Visual Basic"
+        }
+      ]
+    },
+    {
+      "value": "multimedia",
+      "label": "多媒体设计类",
+      "child": [
+        {
+          "value": 1,
+          "label": "Photoshop"
+        },
+        {
+          "value": 2,
+          "label": "Corel Draw"
+        },
+        {
+          "value": 3,
+          "label": "Director"
+        },
+        {
+          "value": 4,
+          "label": "Flash"
+        },
+        {
+          "value": 5,
+          "label": "Illustrator"
+        },
+        {
+          "value": 6,
+          "label": "Pagemaker"
+        },
+        {
+          "value": 7,
+          "label": "Dreamweaver"
+        },
+        {
+          "value": 8,
+          "label": "Fireworks\/Frontpage"
+        },
+        {
+          "value": 9,
+          "label": "3D Studio"
+        },
+        {
+          "value": 10,
+          "label": "Frontpage"
+        },
+        {
+          "value": 11,
+          "label": "Golive"
+        },
+        {
+          "value": 12,
+          "label": "Lightwave"
+        },
+        {
+          "value": 13,
+          "label": "Maya"
+        },
+        {
+          "value": 14,
+          "label": "MS publisher"
+        },
+        {
+          "value": 15,
+          "label": "AUTOCAD"
+        },
+        {
+          "value": 16,
+          "label": "CATIA"
+        }
+      ]
+    },
+    {
+      "value": "office_software",
+      "label": "办公应用软件",
+      "child": [
+        {
+          "value": 1,
+          "label": "Outlook Express"
+        },
+        {
+          "value": 2,
+          "label": "MS WORD"
+        },
+        {
+          "value": 3,
+          "label": "MS VISIO"
+        },
+        {
+          "value": 4,
+          "label": "MS OneNote"
+        },
+        {
+          "value": 5,
+          "label": "MS PowerPoint"
+        },
+        {
+          "value": 6,
+          "label": "MS PROJECT"
+        },
+        {
+          "value": 7,
+          "label": "MS EXCEL"
+        }
+      ]
+    },
+    {
+      "value": "financial",
+      "label": "财务管理类",
+      "child": [
+        {
+          "value": 1,
+          "label": "Sun"
+        },
+        {
+          "value": 2,
+          "label": "用友"
+        },
+        {
+          "value": 3,
+          "label": "金蝶"
+        }
+      ]
+    }
+  ],
+  "foreign_language_class": [
+    {
+      "value": "english",
+      "label": "英语",
+      "child": [
+        {
+          "value": 1,
+          "label": "全国大学英语四级(CET4)"
+        },
+        {
+          "value": 2,
+          "label": "全国大学英语六级(CET6)"
+        },
+        {
+          "value": 3,
+          "label": "专业英语-四级"
+        },
+        {
+          "value": 4,
+          "label": "专业英语-八级"
+        },
+        {
+          "value": 5,
+          "label": "托福（TOEFL）-IBT"
+        },
+        {
+          "value": 6,
+          "label": "雅思（IELTS）"
+        },
+        {
+          "value": 7,
+          "label": "托业（TOEIC)"
+        },
+        {
+          "value": 8,
+          "label": "研究生成绩考试（GRE)"
+        },
+        {
+          "value": 9,
+          "label": "管理类研究生入学考试（GMAT)"
+        },
+        {
+          "value": 10,
+          "label": "上海英语口译初级"
+        },
+        {
+          "value": 11,
+          "label": "上海英语口译中级"
+        },
+        {
+          "value": 12,
+          "label": "上海英语口译高级"
+        },
+        {
+          "value": 13,
+          "label": "（CATTI）英语-资深翻译"
+        },
+        {
+          "value": 14,
+          "label": "（CATTI）英语-一级口译"
+        },
+        {
+          "value": 15,
+          "label": "（CATTI）英语-一级笔译"
+        },
+        {
+          "value": 16,
+          "label": "（CATTI）英语-二级口译"
+        },
+        {
+          "value": 17,
+          "label": "（CATTI）英语-二级笔译"
+        },
+        {
+          "value": 18,
+          "label": "（CATTI）英语-三级口译"
+        },
+        {
+          "value": 19,
+          "label": "（CATTI）英语-三级笔译"
+        },
+        {
+          "value": 20,
+          "label": "其他"
+        }
+      ]
+    },
+    {
+      "value": "japanese",
+      "label": "日语",
+      "child": [
+        {
+          "value": 1,
+          "label": "（CATTI）日语-资深翻译"
+        },
+        {
+          "value": 2,
+          "label": "（CATTI）日语-一级口译"
+        },
+        {
+          "value": 3,
+          "label": "（CATTI）日语-一级笔译"
+        },
+        {
+          "value": 4,
+          "label": "（CATTI）日语-二级口译"
+        },
+        {
+          "value": 5,
+          "label": "（CATTI）日语-二级笔译"
+        },
+        {
+          "value": 6,
+          "label": "（CATTI）日语-三级口译"
+        },
+        {
+          "value": 7,
+          "label": "（CATTI）日语-三级笔译"
+        },
+        {
+          "value": 8,
+          "label": "出国留学人员外语水平考试(WSK)"
+        },
+        {
+          "value": 9,
+          "label": "专业日语-四级"
+        },
+        {
+          "value": 10,
+          "label": "专业日语-八级"
+        },
+        {
+          "value": 11,
+          "label": "实用日本语鉴定考试（J.TEST）-A-D级"
+        },
+        {
+          "value": 12,
+          "label": "实用日本语鉴定考试（J.TEST）-E-F级"
+        },
+        {
+          "value": 13,
+          "label": "日本语能力测试JLPT"
+        },
+        {
+          "value": 14,
+          "label": "其他"
+        }
+      ]
+    },
+    {
+      "value": "german",
+      "label": "德语",
+      "child": [
+        {
+          "value": 1,
+          "label": "（CATTI）德语-资深翻译"
+        },
+        {
+          "value": 2,
+          "label": "（CATTI）德语-一级口译"
+        },
+        {
+          "value": 3,
+          "label": "（CATTI）德语-一级笔译"
+        },
+        {
+          "value": 4,
+          "label": "（CATTI）德语-二级口译"
+        },
+        {
+          "value": 5,
+          "label": "（CATTI）德语-二级笔译"
+        },
+        {
+          "value": 6,
+          "label": "（CATTI）德语-三级口译"
+        },
+        {
+          "value": 7,
+          "label": "（CATTI）德语-三级笔译"
+        },
+        {
+          "value": 8,
+          "label": "出国留学人员外语水平考试(WSK)"
+        },
+        {
+          "value": 9,
+          "label": "专业德语-四级"
+        },
+        {
+          "value": 10,
+          "label": "专业德语-八级"
+        },
+        {
+          "value": 11,
+          "label": "德福（TestDaf）"
+        },
+        {
+          "value": 12,
+          "label": "德国高校外国申请者入学德语考试"
+        },
+        {
+          "value": 13,
+          "label": "其他"
+        }
+      ]
+    },
+    {
+      "value": "russian",
+      "label": "俄语",
+      "child": [
+        {
+          "value": 1,
+          "label": "（CATTI）俄语-资深翻译"
+        },
+        {
+          "value": 2,
+          "label": "（CATTI）俄语-一级口译"
+        },
+        {
+          "value": 3,
+          "label": "（CATTI）俄语-一级笔译"
+        },
+        {
+          "value": 4,
+          "label": "（CATTI）俄语-二级口译"
+        },
+        {
+          "value": 5,
+          "label": "（CATTI）俄语-二级笔译"
+        },
+        {
+          "value": 6,
+          "label": "（CATTI）俄语-三级口译"
+        },
+        {
+          "value": 7,
+          "label": "（CATTI）俄语-三级笔译"
+        },
+        {
+          "value": 8,
+          "label": "出国留学人员外语水平考试(WSK)"
+        },
+        {
+          "value": 9,
+          "label": "专业俄语-四级"
+        },
+        {
+          "value": 10,
+          "label": "专业俄语-八级"
+        },
+        {
+          "value": 11,
+          "label": "其他"
+        }
+      ]
+    },
+    {
+      "value": "french",
+      "label": "法语",
+      "child": [
+        {
+          "value": 1,
+          "label": "（CATTI）法语-资深翻译"
+        },
+        {
+          "value": 2,
+          "label": "（CATTI）法语-一级口译"
+        },
+        {
+          "value": 3,
+          "label": "（CATTI）法语-一级笔译"
+        },
+        {
+          "value": 4,
+          "label": "（CATTI）法语-二级口译"
+        },
+        {
+          "value": 5,
+          "label": "（CATTI）法语-二级笔译"
+        },
+        {
+          "value": 6,
+          "label": "（CATTI）法语-三级口译"
+        },
+        {
+          "value": 7,
+          "label": "（CATTI）法语-三级笔译"
+        },
+        {
+          "value": 8,
+          "label": "出国留学人员外语水平考试(WSK)"
+        },
+        {
+          "value": 9,
+          "label": "法语水平测试-TCF"
+        },
+        {
+          "value": 10,
+          "label": "法语水平测试-TEF"
+        },
+        {
+          "value": 11,
+          "label": "专业法语-四级"
+        },
+        {
+          "value": 12,
+          "label": "专业法语-八级"
+        },
+        {
+          "value": 13,
+          "label": "法语学习文凭(DELF)"
+        },
+        {
+          "value": 14,
+          "label": "法语深入学习文凭-(DALF)"
+        },
+        {
+          "value": 15,
+          "label": "其他"
+        }
+      ]
+    },
+    {
+      "value": "korean",
+      "label": "韩语",
+      "child": [
+        {
+          "value": 1,
+          "label": "韩语能力测试-TOPIK"
+        },
+        {
+          "value": 2,
+          "label": "韩语能力测试KLPT\/KLAT"
+        },
+        {
+          "value": 3,
+          "label": "专业韩语-四级"
+        },
+        {
+          "value": 4,
+          "label": "专业韩语-八级"
+        },
+        {
+          "value": 5,
+          "label": "其他"
+        }
+      ]
+    },
+    {
+      "value": "polish",
+      "label": "波兰语",
+      "child": [
+        {
+          "value": 1,
+          "label": "波兰语专业"
+        }
+      ]
+    },
+    {
+      "value": "portuguese",
+      "label": "葡萄牙语",
+      "child": [
+        {
+          "value": 1,
+          "label": "葡萄牙语专业"
+        },
+        {
+          "value": 2,
+          "label": "葡萄牙语语言水平考试CAPLE"
+        },
+        {
+          "value": 3,
+          "label": "葡萄牙语语言水平考试CELPE-BRAS"
+        }
+      ]
+    },
+    {
+      "value": "arabic",
+      "label": "阿拉伯语",
+      "child": [
+        {
+          "value": 1,
+          "label": "专业阿拉伯语-四级"
+        }
+      ]
+    },
+    {
+      "value": "other_small_languages",
+      "label": "其他小语种",
+      "child": [
+        {
+          "value": 1,
+          "label": "其他"
+        }
+      ]
+    },
+    {
+      "value": "turkish",
+      "label": "土耳其语",
+      "child": [
+        {
+          "value": 1,
+          "label": "土耳其语专业"
+        },
+        {
+          "value": 2,
+          "label": "土耳其语TOMER考试"
+        }
+      ]
+    },
+    {
+      "value": "spanish",
+      "label": "西班牙语",
+      "child": [
+        {
+          "value": 1,
+          "label": "专业西班牙语-四级"
+        },
+        {
+          "value": 2,
+          "label": "专业西班牙语-八级"
+        },
+        {
+          "value": 3,
+          "label": "西班牙语水平测试(DELE)"
+        },
+        {
+          "value": 4,
+          "label": "（CATTI）西班牙语-资深翻译"
+        },
+        {
+          "value": 5,
+          "label": "（CATTI）西班牙语-一级口译"
+        },
+        {
+          "value": 6,
+          "label": "（CATTI）西班牙语-一级笔译"
+        },
+        {
+          "value": 7,
+          "label": "（CATTI）西班牙语-二级口译"
+        },
+        {
+          "value": 8,
+          "label": "（CATTI）西班牙语-二级笔译"
+        },
+        {
+          "value": 9,
+          "label": "（CATTI）西班牙语-三级口译"
+        },
+        {
+          "value": 10,
+          "label": "（CATTI）西班牙语-三级笔译"
+        }
+      ]
+    },
+    {
+      "value": "italian",
+      "label": "意大利语",
+      "child": [
+        {
+          "value": 1,
+          "label": "意大利语专业"
+        },
+        {
+          "value": 2,
+          "label": "意大利语水平测试CELI"
+        },
+        {
+          "value": 3,
+          "label": "意大利语水平测试CILS"
+        },
+        {
+          "value": 4,
+          "label": "意大利语水平测试PLIDA"
+        },
+        {
+          "value": 5,
+          "label": "意大利语水平测试IT"
+        }
+      ]
+    },
+    {
+      "value": "indonesian",
+      "label": "印尼语",
+      "child": [
+        {
+          "value": 1,
+          "label": "印尼语专业"
+        }
+      ]
+    },
+    {
+      "value": "none",
+      "label": "无",
+      "child": [
+        {
+          "value": 1,
+          "label": "无"
+        }
+      ]
+    }
+  ]
+}

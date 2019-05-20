@@ -39,7 +39,7 @@
                         <el-form-item prop="code">
                             <el-input v-model="regForm.code" placeholder="请输入短信验证码" prefix-icon="myicon myicon-mail">
                                 <template slot="append">
-                                    <el-button type="text" @click="sendMsg">立即发送</el-button>
+                                    <el-button type="text" @click="send">立即发送</el-button>
                                 </template>
                             </el-input>
                         </el-form-item>
@@ -68,7 +68,7 @@
                     <el-form-item prop="code">
                         <el-input v-model="retrievePwdForm.code" placeholder="请输入短信验证码" prefix-icon="myicon myicon-mail">
                             <template slot="append">
-                                <el-button type="text" @click="sendMsg">立即发送</el-button>
+                                <el-button type="text" @click="sendMsg2">立即发送</el-button>
                             </template>
                         </el-input>
                     </el-form-item>
@@ -129,6 +129,7 @@ export default {
             retrievePwdForm:{
                 mobile: '',
                 password: '',
+                captcha: '',
                 code: ''
             },
             rules: {
@@ -162,7 +163,7 @@ export default {
                         if(res.status == 100000){
                             this.$message.success('登录成功');
                             localStorage.setItem('mytoken',res.data.token);
-                            // this.$router.push('/resume');
+                            this.$router.push('/userinfo');
                         }else{
                             this.$message.error(res.msg);
                         }
@@ -184,7 +185,7 @@ export default {
                 }
             });
         },
-        // 找回密码提交
+        // // 找回密码提交
         retrievePwd(formName) {
             this.$refs[formName].validate((valid) => {
                 if (valid) {
@@ -208,21 +209,16 @@ export default {
             })
         },
         // 发送短信验证码
-        sendMsg(){
-            sendMsg({
-                type: 'register',
-                mobile: this.regForm.mobile,
-                captcha: this.regForm.captcha,
-                sms_sign: '华图金融'
-            }).then(res => {
+        send(){
+            let data = {
+                type:'register',
+                mobile:this.regForm.mobile,
+                captcha:this.regForm.captcha
+            }
+            sendMsg(data).then(res => {
                 console.log(res)
-                if(res.status == 100000){
-                    // this.$message.success(res.msg);
-                }else{
-                    // this.$message.error(res.msg);
-                }
             })
-        }
+        },
     }
 }
 </script>
